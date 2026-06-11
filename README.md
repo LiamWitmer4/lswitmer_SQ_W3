@@ -56,9 +56,9 @@ All audio assets are required for the game to function.
 
 | File | Description | Source |
 |------|-------------|--------|
-| `assets/sounds/PunchSound.mp3` | Punch sound effect | OpenGameArt.org |
-| `assets/sounds/VictorySound.mp3` | Win sound effect | OpenGameArt.org |
-| `assets/sounds/BackgroundSound.mp3` | Background music | OpenGameArt.org |
+| [1]`assets/sounds/PunchSound.mp3` | Punch sound effect | OpenGameArt.org |
+| [2]`assets/sounds/VictorySound.mp3` | Win sound effect | OpenGameArt.org |
+| [3]`assets/sounds/BackgroundSound.mp3` | Background music | OpenGameArt.org |
 
 ---
 
